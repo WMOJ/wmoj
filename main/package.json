@@ -9,22 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@monaco-editor/react": "^4.7.0",
-    "@supabase/ssr": "^0.7.0",
-    "@supabase/supabase-js": "^2.57.4",
-    "@uiw/react-md-editor": "^4.0.8",
-    "@vercel/analytics": "^1.6.1",
-    "katex": "^0.16.11",
     "next": "^16.0.10",
     "react": "19.1.0",
-    "react-dom": "19.1.0",
-    "react-markdown": "^10.1.0",
-    "react-syntax-highlighter": "^15.6.6",
-    "rehype-katex": "^7.0.0",
-    "rehype-sanitize": "^6.0.0",
-    "remark-gfm": "^4.0.1",
-    "remark-math": "^6.0.0",
-    "swr": "^2.4.1"
+    "react-dom": "19.1.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -32,7 +19,6 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@types/react-syntax-highlighter": "^15.5.13",
     "eslint": "^9",
     "eslint-config-next": "^16.0.10",
     "tailwindcss": "^4",
